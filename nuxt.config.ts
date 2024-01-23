@@ -6,6 +6,10 @@ export default defineNuxtConfig({
     tailwindcss: {
         cssPath: '~/assets/css/input.css'
     },
+    css: [
+        '@fortawesome/fontawesome-free/css/all.css'
+
+    ]
   
     
 })
