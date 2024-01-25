@@ -309,7 +309,7 @@
                     <!-- Cambiar el testimonio para que se relacione con inmuebles -->
                     <p class="text-2xl font-medium text-gray-900 dark:text-white">"Estoy encantado con la variedad de
                         propiedades que ofrece esta plataforma. Encontré mi hogar ideal gracias a su amplia selección de
-                        inmuebles en diferentes ubicaciones."</p>
+                        inmuebles en diferentes ubicaciones. "</p>
                 </blockquote>
                 <figcaption class="flex items-center justify-center mt-6 space-x-3">
                     <!-- Cambiar la imagen de perfil y la información del testimonio -->
